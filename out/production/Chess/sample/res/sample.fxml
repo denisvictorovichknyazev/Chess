@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+
+<AnchorPane id="AnchorPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="773.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="sample.Controller">
+  <children>
+    <GridPane gridLinesVisible="true" layoutX="31.0" layoutY="30.0" prefHeight="475.0" prefWidth="495.0">
+      <children>
+        <Button fx:id="button" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="0" GridPane.rowIndex="0" />
+        <Button fx:id="button1" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="1" GridPane.rowIndex="0" />
+        <Button fx:id="button2" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="2" GridPane.rowIndex="0" />
+        <Button fx:id="button3" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="3" GridPane.rowIndex="0" />
+        <Button fx:id="button4" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="4" GridPane.rowIndex="0" />
+        <Button fx:id="button5" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="5" GridPane.rowIndex="0" />
+        <Button fx:id="button6" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="6" GridPane.rowIndex="0" />
+        <Button fx:id="button7" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="7" GridPane.rowIndex="0" />
+        <Button fx:id="button8" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="0" GridPane.rowIndex="1" />
+        <Button fx:id="button9" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+        <Button fx:id="button10" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+        <Button fx:id="button11" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+        <Button fx:id="button12" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="4" GridPane.rowIndex="1" />
+        <Button fx:id="button13" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="5" GridPane.rowIndex="1" />
+        <Button fx:id="button14" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="6" GridPane.rowIndex="1" />
+        <Button fx:id="button15" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="7" GridPane.rowIndex="1" />
+        <Button fx:id="button16" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="0" GridPane.rowIndex="2" />
+        <Button fx:id="button17" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+        <Button fx:id="button18" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="2" GridPane.rowIndex="2" />
+        <Button fx:id="button19" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+        <Button fx:id="button20" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="4" GridPane.rowIndex="2" />
+        <Button fx:id="button21" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="5" GridPane.rowIndex="2" />
+        <Button fx:id="button22" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="6" GridPane.rowIndex="2" />
+        <Button fx:id="button23" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="7" GridPane.rowIndex="2" />
+        <Button fx:id="button24" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="0" GridPane.rowIndex="3" />
+        <Button fx:id="button25" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+        <Button fx:id="button26" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="2" GridPane.rowIndex="3" />
+        <Button fx:id="button27" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+        <Button fx:id="button28" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="4" GridPane.rowIndex="3" />
+        <Button fx:id="button29" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="5" GridPane.rowIndex="3" />
+        <Button fx:id="button30" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="6" GridPane.rowIndex="3" />
+        <Button fx:id="button31" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="7" GridPane.rowIndex="3" />
+        <Button fx:id="button32" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="0" GridPane.rowIndex="4" />
+        <Button fx:id="button33" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+        <Button fx:id="button34" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="2" GridPane.rowIndex="4" />
+        <Button fx:id="button35" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="3" GridPane.rowIndex="4" />
+        <Button fx:id="button36" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="4" GridPane.rowIndex="4" />
+        <Button fx:id="button37" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="5" GridPane.rowIndex="4" />
+        <Button fx:id="button38" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="6" GridPane.rowIndex="4" />
+        <Button fx:id="button39" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="7" GridPane.rowIndex="4" />
+        <Button fx:id="button40" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="0" GridPane.rowIndex="5" />
+        <Button fx:id="button41" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+        <Button fx:id="button42" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="2" GridPane.rowIndex="5" />
+        <Button fx:id="button43" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="3" GridPane.rowIndex="5" />
+        <Button fx:id="button44" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="4" GridPane.rowIndex="5" />
+        <Button fx:id="button45" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="5" GridPane.rowIndex="5" />
+        <Button fx:id="button46" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="6" GridPane.rowIndex="5" />
+        <Button fx:id="button47" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="7" GridPane.rowIndex="5" />
+        <Button fx:id="button48" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="0" GridPane.rowIndex="6" />
+        <Button fx:id="button49" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+        <Button fx:id="button50" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="2" GridPane.rowIndex="6" />
+        <Button fx:id="button51" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="3" GridPane.rowIndex="6" />
+        <Button fx:id="button52" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="4" GridPane.rowIndex="6" />
+        <Button fx:id="button53" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="5" GridPane.rowIndex="6" />
+        <Button fx:id="button54" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="6" GridPane.rowIndex="6" />
+        <Button fx:id="button55" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="7" GridPane.rowIndex="6" />
+        <Button fx:id="button56" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="0" GridPane.rowIndex="7" />
+        <Button fx:id="button57" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="1" GridPane.rowIndex="7" />
+        <Button fx:id="button58" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="2" GridPane.rowIndex="7" />
+        <Button fx:id="button59" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="3" GridPane.rowIndex="7" />
+        <Button fx:id="button60" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="4" GridPane.rowIndex="7" />
+        <Button fx:id="button61" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="5" GridPane.rowIndex="7" />
+        <Button fx:id="button62" maxHeight="61.0" maxWidth="62.0" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="61.0" prefWidth="62.0" text="" visible="true" GridPane.columnIndex="6" GridPane.rowIndex="7" />
+        <Button fx:id="button63" maxHeight="61.0" maxWidth="62.000099999997474" minHeight="30.0" minWidth="30.0" mnemonicParsing="false" onAction="#fieldClick" opacity="1.0" prefHeight="60.000099999997474" prefWidth="62.000099999997474" text="" visible="true" GridPane.columnIndex="7" GridPane.rowIndex="7" />
+      </children>
+      <columnConstraints>
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+        <ColumnConstraints hgrow="SOMETIMES" minWidth="10.0" prefWidth="100.0" />
+      </columnConstraints>
+      <rowConstraints>
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+      </rowConstraints>
+    </GridPane>
+    <Label layoutX="15.0" layoutY="172.0" minWidth="1.0" prefWidth="17.0" text="3" />
+    <Label layoutX="15.0" layoutY="232.0" minWidth="1.0" prefWidth="17.0" text="4" />
+    <Label layoutX="14.0" layoutY="52.0" minWidth="1.0" prefWidth="17.0" text="1" />
+    <Label layoutX="15.0" layoutY="112.0" minWidth="1.0" prefWidth="17.0" text="2" />
+    <Label layoutX="15.0" layoutY="291.0" minWidth="1.0" prefWidth="17.0" text="5" />
+    <Label layoutX="15.0" layoutY="350.0" minWidth="1.0" prefWidth="17.0" text="6" />
+    <Label layoutX="15.0" layoutY="409.0" minWidth="1.0" prefWidth="17.0" text="7" />
+    <Label layoutX="15.0" layoutY="468.0" minWidth="1.0" prefWidth="17.0" text="8" />
+    <Label layoutX="62.0" layoutY="14.0" minWidth="1.0" prefWidth="17.0" text="A" />
+    <Label layoutX="123.0" layoutY="14.0" minWidth="1.0" prefWidth="17.0" text="B" />
+    <Label layoutX="185.0" layoutY="14.0" minWidth="1.0" prefWidth="17.0" text="C" />
+    <Label layoutX="247.0" layoutY="15.0" minWidth="1.0" prefWidth="17.0" text="D" />
+    <Label layoutX="309.0" layoutY="14.0" minWidth="1.0" prefWidth="17.0" text="E" />
+    <Label layoutX="371.0" layoutY="15.0" minWidth="1.0" prefWidth="17.0" text="F" />
+    <Label layoutX="433.0" layoutY="14.0" minWidth="1.0" prefWidth="17.0" text="G" />
+    <Label layoutX="495.0" layoutY="14.0" minWidth="1.0" prefWidth="17.0" text="H" />
+    <Label layoutX="54.0" layoutY="506.0" minWidth="1.0" prefWidth="17.0" text="A" />
+    <Label layoutX="115.0" layoutY="506.0" minWidth="1.0" prefWidth="17.0" text="B" />
+    <Label layoutX="177.0" layoutY="506.0" minWidth="1.0" prefWidth="17.0" text="C" />
+    <Label layoutX="239.0" layoutY="506.0" minWidth="1.0" prefWidth="17.0" text="D" />
+    <Label layoutX="301.0" layoutY="506.0" minWidth="1.0" prefWidth="17.0" text="R" />
+    <Label layoutX="371.0" layoutY="506.0" minWidth="1.0" prefWidth="17.0" text="F" />
+    <Label layoutX="433.0" layoutY="506.0" minWidth="1.0" prefWidth="17.0" text="G" />
+    <Label layoutX="487.0" layoutY="506.0" minWidth="1.0" prefWidth="17.0" text="H" />
+    <Label layoutX="534.0" layoutY="52.0" minWidth="1.0" prefWidth="17.0" text="1" />
+    <Label layoutX="534.0" layoutY="109.0" minWidth="1.0" prefWidth="17.0" text="2" />
+    <Label layoutX="534.0" layoutY="172.0" minWidth="1.0" prefWidth="17.0" text="3" />
+    <Label layoutX="534.0" layoutY="230.0" minWidth="1.0" prefWidth="17.0" text="4" />
+    <Label layoutX="534.0" layoutY="290.0" minWidth="1.0" prefWidth="17.0" text="5" />
+    <Label layoutX="534.0" layoutY="352.0" minWidth="1.0" prefWidth="17.0" text="6" />
+    <Label layoutX="534.0" layoutY="407.0" minWidth="1.0" prefWidth="17.0" text="7" />
+    <Label layoutX="532.0" layoutY="468.0" minWidth="1.0" prefWidth="17.0" text="8" />
+    <TextArea fx:id="info" editable="false" layoutX="563.0" layoutY="109.0" prefHeight="397.0" prefWidth="200.0" wrapText="true" />
+    <Separator layoutX="551.0" layoutY="10.0" orientation="VERTICAL" prefHeight="526.0000999999975" />
+    <Button fx:id="newgame" layoutX="588.0" layoutY="9.0" mnemonicParsing="false" onAction="#newgameClick" prefWidth="166.0" text="Новая партия" />
+    <Button layoutX="588.0" layoutY="45.0" mnemonicParsing="false" onAction="#newonlinegameClick_w" prefWidth="166.0" text="Партия по сети за белых" />
+    <Label fx:id="check_label" layoutX="563.0" layoutY="514.0" text="" />
+    <Button layoutX="588.0" layoutY="80.0" mnemonicParsing="false" onAction="#newonlinegameClick" prefWidth="166.0" text="Партия по сети за черных" />
+  </children>
+</AnchorPane>
